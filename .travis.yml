@@ -1,0 +1,3 @@
+language: objective-c
+xcode_project: TestForGithub.xcworkspace
+xcode_schema: TestForGithub
